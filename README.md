@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Zulfa 
 
-<!--
-**zulfajalil-dev/zulfajalil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Columbia University interested in AI, psychology, decision-making, and social impact.
 
-Here are some ideas to get you started:
+ *Current Interests
+- AI applications for public services
+- Human-centered technology
+- Data science
+- Behavioral psychology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ *Featured Project
+ -ResourceBridge
+
+An AI-powered tool that helps students and community members identify relevant resources and generate action plans.
