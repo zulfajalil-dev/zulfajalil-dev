@@ -13,4 +13,4 @@ Hi, I'm Zulfa Jalil
  
  -ResourceBridge
 
-An AI-powered tool that helps students and community members identify relevant resources and generate action plans.
+An AI-powered tool that helps students and community members identify relevant resources and generate action plans. 
